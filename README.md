@@ -5,15 +5,17 @@ _Note: This is not the 'official' guide -- Desert Strike Legacy (Official) is th
 I originally posted this on reddit at https://www.reddit.com/r/starcraft/comments/cu7vp7/guide_for_desert_strike_legacy_official_arcade/
 but later deleted the account for unrelated reasons. I'm moving it here and may update it periodically.
 
-This guide is for Epic mode (80 wave) 3v3 or 2v2. I might add some 1v1 advice later but I rarely play it. The guide layout is as follows.
+This guide is for Epic mode (80 wave) 3v3 or 2v2. I might add some 1v1 advice later but I rarely play it. 
 
--A few general tidbits of wisdom I've picked up.
+_The guide layout is as follows._
 
--A basic build for each race that doesn't take into account what your opponents are doing, but will serve as a solid basis if you're new. That will include both opening build orders and sudden death (SD) compositions.
+&nbsp;&nbsp;&nbsp;&nbsp; -A few general tidbits of wisdom I've picked up.
 
--A matchup-specific analysis of the early game (pre wave 40).
+&nbsp;&nbsp;&nbsp;&nbsp; -A basic build for each race that doesn't take into account what your opponents are doing, but will serve as a solid basis if you're new. That will include both opening build orders and sudden death (SD) compositions.
 
--Finally, endgame team compositions. This assumes 3v3 or 2v2 games on Epic mode.
+&nbsp;&nbsp;&nbsp;&nbsp; -A matchup-specific analysis of the early game (pre wave 40).
+
+&nbsp;&nbsp;&nbsp;&nbsp; -Finally, endgame team compositions. This assumes 3v3 or 2v2 games on Epic mode.
 
 Tl;dr at the bottom.
 
