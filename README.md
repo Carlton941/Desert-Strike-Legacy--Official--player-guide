@@ -142,9 +142,17 @@ _--Siege_
 
 Endgame is all about siege. That means any very long-ranged unit that can attack ground targets, preferably with splash damage. This includes siege tanks, colossus, tempests, swarm guardians (SG) and swarm hosts (SH). SGs are the very best, with a few brood lords thrown in. Against an opponent with lots of ground units, build a few SH also, enough to keep their tanks distracted. As Protoss, you'll want a lot of tempests and a varying number of colossus depending on what your opponent's ground composition looks like. In general, colossus are excellent against bioball and zerg hydra/roach spam, but bad against mech and especially tanks. A good base number is 4-6, and adjust up as necessary to account for the enemy composition. As Terran, you guessed it, build tanks.
 
-_--Best endgame team lineup_
+_--Team lineup for endgame_
 
-PZZ/PPZ (or PZ in 2v2s) is my favorite composition because you can base your final build around the big damage-dealers: SG and colossus pump out DPS like there's no tomorrow. If you are fighting a heavily ground-based enemy team composition, it is important to throw in several swarm hosts because they can delay the enemy ground forces while your flying units pick them all off after having destroyed their anti-air capability and detection. Your ground units will usually all die long before the opponents' tanks are all gone, but do not worry! That is what the hosts are for. They distract the tanks for a very long time and only slowly die to splash damage.
+PPZ/PZZ are tier one, with PPZ slightly better in sudden death round.
+
+PZT is tier two because zerg following immos is very strong and you can start this quite early on.
+
+PTZ is tier three because zerg following tanks is even better, _but_ only works in mid to late.
+
+All other comps are fourth tier because a team without zerg can't use zerg speed to stack, and a team without protoss can't use tempests to soak unlimited air damage.
+
+A brief summary of why PZZ/PPZ (or PZ in 2v2s) is my favorite composition: You can base your final build around the big damage-dealers, SG and colossus. These things pump out DPS like there's no tomorrow. Make sure you have enough tempests and anti-air guns to win the air battle, based on how much air your opponents build. If you are fighting a heavily ground-based enemy team composition, it is important to throw in several swarm hosts because they can delay the enemy ground forces while your flying units pick them all off after having destroyed their anti-air capability and detection. Your ground units will usually all die long before the opponents' tanks are all gone, but do not worry! That is what the hosts are for. They distract the tanks for a very long time and only slowly die to splash damage without detection to reveal them.
 
 _--Keeping SGs alive_
 
