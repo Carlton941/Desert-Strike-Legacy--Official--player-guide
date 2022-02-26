@@ -1,5 +1,6 @@
-Desert Strike Legacy (Official) player guide
-Note: This is not the 'official' guide -- Desert Strike Legacy (Official) is the name of the arcade mode.
+**Desert Strike Legacy (Official) player guide**
+
+_Note: This is not the 'official' guide -- Desert Strike Legacy (Official) is the name of the arcade mode._
 
 I originally posted this on reddit at https://www.reddit.com/r/starcraft/comments/cu7vp7/guide_for_desert_strike_legacy_official_arcade/
 but later deleted the account for unrelated reasons. I'm moving it here and may update it periodically.
