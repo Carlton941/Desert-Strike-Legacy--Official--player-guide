@@ -15,7 +15,7 @@ _The guide layout is as follows._
 
 &nbsp;&nbsp;&nbsp;&nbsp; -A matchup-specific analysis of the early game (pre wave 40).
 
-&nbsp;&nbsp;&nbsp;&nbsp; -Finally, endgame team compositions. This assumes 3v3 or 2v2 games on Epic mode.
+&nbsp;&nbsp;&nbsp;&nbsp; -Finally, a discussion of endgame team compositions.
 
 Tl;dr at the bottom.
 
