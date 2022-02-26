@@ -23,11 +23,11 @@ Let's get started!
 
 _--Gassing/Refineries/etc_
 
-  Gas whenever possible. This usually means the first thing you do is save 800 mins and gas immediately. Then you can build 3-4 basic structures and then you save for another gas. Then you can build about 4 basic structures before you have to save again.
+&nbsp;&nbsp;&nbsp;&nbsp; Gas whenever possible. This usually means the first thing you do is save 800 mins and gas immediately. Then you can build 3-4 basic structures and then you save for another gas. Then you can build about 4 basic structures before you have to save again.
 
-  With all three beginning refineries built, you don't have to think about it again until spawn 40 occurs, at which point you need to save for the next gas at spawn 41. After that one, begin saving for the fifth and sixth gas when the refinery cooldown timer hits about 35 and 25 seconds respectively.
+&nbsp;&nbsp;&nbsp;&nbsp; With all three beginning refineries built, you don't have to think about it again until spawn 40 occurs, at which point you need to save for the next gas at spawn 41. After that one, begin saving for the fifth and sixth gas when the refinery cooldown timer hits about 35 and 25 seconds respectively.
 
-  The caveat to 'gas whenever possible' is, if your opponents are doing a rush and you're not sure you can hold it off you should delay. You only need to stay one gas ahead of them at at first so you can keep up with the unit spam. But if they haven't started gassing by wave 15, you should finish your three gasses anyway.
+&nbsp;&nbsp;&nbsp;&nbsp; The caveat to 'gas whenever possible' is, if your opponents are doing a rush and you're not sure you can hold it off you should delay. You only need to stay one gas ahead of them at at first so you can keep up with the unit spam. But if they haven't started gassing by wave 15, you should finish your three gasses anyway.
 
 _--Kiting_
 
