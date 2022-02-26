@@ -84,6 +84,7 @@ After 6th gas, spam swarm guardians. You should get at least 6. Also get a few s
 NEVER build as Zerg: banelings. Rarely build vipers, aberrations, more than 1 corruptor or more than a few ultralisks.
 
 3. **Early-game Matchups** 
+
 These are more detailed strategies that may deviate from the basic builds.
 
 _TvZ_
