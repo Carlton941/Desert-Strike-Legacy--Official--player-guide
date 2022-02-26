@@ -18,7 +18,8 @@ Tl;dr at the bottom.
 
 Let's get started!
 
-1. General Tidbits
+**1. General Tidbits**
+
 _Gassing/Refineries/etc_
 Gas whenever possible. This usually means the first thing you do is save 800 mins and gas immediately. Then you can build 3-4 basic structures and then you save for another gas. Then you can build about 4 basic structures before you have to save again.
 
