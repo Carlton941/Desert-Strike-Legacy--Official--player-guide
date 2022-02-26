@@ -123,7 +123,17 @@ I open with quad gateway or gateway/cybernetics core/archon for my first three b
 
 _--PvP_
 
-There are two schools of thought. School one: It’s ALL about the sentries. Open with a few adepts, and then alternate adepts and sentries until you have a row or so of adept and at least two rows of sentry, especially if your opponent is massing archons or immortals. Throw in a few immortals of your own, and some colossus. The mass illusion spam from the sentries will body-block the opposing units, and allow your colossi free reign. I used to believe that mass immo beat the adept/sentry strat, but it turns out my opponents simply weren’t building ENOUGH sentry. (If your opponent isn't aware of this strat, you yourself can counter mass adept with mass immo and wreck them) If you see your opponent doing this strat, I’m told that doing the same thing except swapping out some of the adept/sentry for additional colossus and some carriers, as well, will counter it. I can’t confirm from first-hand experience though. Also, in PvP mothership cores aren’t super crucial but you can still get a couple. They’re decent against adepts but almost pointless against immortals IMO. This is because the bubbles don’t last long enough relative to the immortals’, well, immortal lifespan to have a notable on their overall output.School two: PvP is rock-paper-scissors. Archons beat immos, immos beat adept, adept+sentry beat archon. In general, you always end up spamming immos and colossus around waves 30-40 no matter what your opponent does. Throw in a tempest and some preservers. For end-game, build as many tempests as your opponent does and as many colossus as you can fit in, but not more than 8 immos. That money is better spent on colossus when it comes to SD although having more than 8 immo buildings can be really good in mid-to-late.Lately I'm learning towards school two, but other good players swear by school one. Take your pick.
+There are two schools of thought. 
+
+_School one_
+
+It’s ALL about the sentries. Open with a few adepts, and then alternate adepts and sentries until you have a row or so of adept and at least two rows of sentry, especially if your opponent is massing archons or immortals. Throw in a few immortals of your own, and some colossus. The mass illusion spam from the sentries will body-block the opposing units, and allow your colossi free reign. I used to believe that mass immo beat the adept/sentry strat, but it turns out my opponents simply weren’t building ENOUGH sentry. (If your opponent isn't aware of this strat, you yourself can counter mass adept with mass immo and wreck them) If you see your opponent doing this strat, I’m told that doing the same thing except swapping out some of the adept/sentry for additional colossus and some carriers, as well, will counter it. I can’t confirm from first-hand experience though. Also, in PvP mothership cores aren’t super crucial but you can still get a couple. They’re decent against adepts but almost pointless against immortals IMO. This is because the bubbles don’t last long enough relative to the immortals’, well, immortal lifespan to have a notable on their overall output. 
+
+_School two_ 
+
+PvP early-mid is rock-paper-scissors. Archons beat immos, immos beat adept, adept+sentry beat archon. Of the three options, immo spam is generally best and can do a bit better against archon spam if you add a lot of sentries. In general, you always end up spamming immos and colossus around waves 30-40 anyway no matter what your opponent does. Throw in a tempest and some preservers. For end-game, build as many tempests as your opponent does + a couple more and as many colossus as you can fit in, but not more than 8-10 immos. That money is better spent on colossus when it comes to SD although having more than 8-10 immo buildings can be really good in mid-to-late waves. 
+
+Lately I'm learning towards school two, but other good players swear by school one. Take your pick. It's hard to verify what is really optimal short of lots of 1-on-1 test matches. If anyone can absolutely confirm school 1 or school 2 superiority, please let me know.
 
 **4. Endgame Strats**
 
@@ -149,6 +159,6 @@ If you DO want to go terran in 2v2s and your opponents are going air zerg/toss c
 
 TL;DR Always vote epic. Gas, build 3, gas, build 4, gas. Build until the end of wave 40, gas at the end of 41, build ~1200 worth, gas again, build ~1500 worth, gas again. Build siege weapons and high templar for end game. Meta shifts periodically if there are balance updates.
 
-Thanks for reading!
+Thanks for reading. Good luck out there! Let's keep the DS community going strong!
 
 
