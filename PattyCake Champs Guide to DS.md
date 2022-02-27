@@ -38,7 +38,7 @@ _--Gassing/Refineries/etc_
 _--Kiting_
 
 &nbsp;&nbsp;&nbsp;&nbsp; Kiting refers to using your probe to attract the attention of units on the battlefield, pulling them to the side, and letting them walk into your defense grid to die. Kiting is an essential skill to hold off cheesers and for pulling leftovers off your silo when you lose a battle. You can even kite reapers, even though they're super fast, by pulling them DIRECTLY up (if you're on the left side of the map) or DIRECTLY down (if you're on the right side of the map) and then immediately teleporting back to base. (Press the T key and click where you want to tele). They should slide right past the silo and into the nexus turrets.
-_Note_: Kiting a wave as it crosses the middle of the field and drawing it away from the opposing wave before they meet is EXTREMELY BM cheese, and if you do it I hate you. This is a tug of war game mode. Let the waves battle it out before you do any kiting. I will be extra tryhard to make sure you suffer a devastating loss if you do this BS.
+_Note_: Kiting a wave as it crosses the middle of the field and drawing it away from the opposing wave before they meet is EXTREMELY BM cheese, and if you do it I hate you. This is a tug of war game mode. Let the waves battle it out before you do any kiting. I will be extra tryhard and do my best to make you suffer a devastating loss if you do this BS.
 
 _--Team Lineup_
 
