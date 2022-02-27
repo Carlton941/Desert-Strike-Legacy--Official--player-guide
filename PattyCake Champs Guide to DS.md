@@ -7,7 +7,7 @@ but later deleted the account for unrelated reasons. I'm moving it here and may 
 
 _Glad to have you here!_
 
-I love Desert Strike and I hope you will too! I wrote this to help anyone from total noobs (hope you stick around, the DS community can always use more players) to veterans (shout-out to Taak and Cesar). 
+I love Desert Strike and I hope you will too! I wrote this to help anyone from total noobs (hope you stick around, the DS community can always use more players) to veterans (shout-out to Taak, Cesar and Steveo). 
 Obvious disclaimer: all statements herein are simply my opinion. Feel free to disagree, it won't hurt my feelings. 
 This guide is for Epic mode (80 wave) 3v3 or 2v2.
 
