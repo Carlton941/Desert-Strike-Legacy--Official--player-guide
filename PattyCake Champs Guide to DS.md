@@ -5,7 +5,11 @@ _Note: This is not the 'official' guide -- Desert Strike Legacy (Official) is th
 I originally posted this on reddit at https://www.reddit.com/r/starcraft/comments/cu7vp7/guide_for_desert_strike_legacy_official_arcade/
 but later deleted the account for unrelated reasons. I'm moving it here and may update it periodically.
 
-This guide is for Epic mode (80 wave) 3v3 or 2v2. I might add some 1v1 advice later but I rarely play it. 
+_Glad to have you here!_
+
+I love Desert Strike and I hope you will too! I wrote this to help anyone from total noobs (hope you stick around, the DS community can always use more players) to veterans (shout-out to Taak and Cesar). 
+Obvious disclaimer: all statements herein are simply my opinion. Feel free to disagree, it won't hurt my feelings. 
+This guide is for Epic mode (80 wave) 3v3 or 2v2.
 
 _The guide layout is as follows._
 
