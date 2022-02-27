@@ -8,7 +8,7 @@ but later deleted the account for unrelated reasons. I'm moving it here and may 
 _Glad to have you here!_
 
 I love Desert Strike and I hope you will too! I wrote this to help anyone from total noobs (hope you stick around, the DS community can always use more players) to veterans (shout-out to Taak, Cesar and Steveo). 
-Obvious disclaimer: all statements herein are simply my opinion. Feel free to disagree, it won't hurt my feelings. There are better DS players out there than me. There is also a lot of nuance to consider within any given match, so broad statements like "dont get lots of vikings for reason X" are contingent on reason X actually being applicable to your situation.
+Obvious disclaimer: all statements herein are simply my opinion. Feel free to disagree, it won't hurt my feelings. There are better DS players out there than me. In fact, if you want to correct me or ask a question, make an Issue and post your comment there! I love theorycrafting this stuff. There is also a lot of nuance to consider within any given match, so broad statements like "dont get lots of vikings for reason X" are contingent on reason X actually being applicable to your situation.
 This guide is for Epic mode (80 wave) 3v3 or 2v2.
 
 _The guide layout is as follows._
